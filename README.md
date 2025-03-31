@@ -1,1 +1,1 @@
-# This is to study on MCP for AI agent indivisually
+# This repo. is to study on MCP build for AI agent
